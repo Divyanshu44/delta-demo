@@ -1,2 +1,2 @@
 # delta-demo
-Learn to use GitHub 
+Learn to use GitHub. 
